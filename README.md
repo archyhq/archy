@@ -16,11 +16,11 @@ Archy.ai is a platform for developers.
 3. Archy generates user interface, available through Archy Client.
 4. User downloads Archy client and developer's integrations.
 
-## How interface will look? 
+## Demo. How it works
 
 Example of simple integration with BetaList:
 
-https://video.twimg.com/dm_gif/817220933689585664/JSz2qxRPltY4drcpMsggTPZVSlcrbYkAyyDH_h7O-pRb3E33l1.mp4
+[Demo of BetaList Integration!](http://bit.ly/2iRqIwr)
 
 
 # Examples of Archy Integrations
