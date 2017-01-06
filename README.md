@@ -4,7 +4,7 @@ Note: This is not an open source project (yet), this repo is for issue tracking 
 
 ## We in Private Beta! Join now.
 
-- go to https://archy.ai and signup to private beta to invite to test our iOS app.
+- Sign Up to Private beta with your github account: https://archy.ai/developer/auth/private_beta
 
 
 ## How it works?
