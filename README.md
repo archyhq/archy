@@ -8,6 +8,6 @@ Issue tracking and main entry point for Archy Developers.
 
 
 # Resources
-
+- Documentation: https://docs.archy.ai
 - Slack: http://slack.archy.ai
 - Twitter: https://twitter.com/archyhq
