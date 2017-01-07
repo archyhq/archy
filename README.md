@@ -2,7 +2,7 @@
 
 Note: This is not an open source project (yet), this repo is for issue tracking and main entry point for developers.
 
-## We in Private Beta! Join now.
+## We are in Private Beta! Join now.
 
 - Sign Up to Private beta with your github account: https://archy.ai/developer/auth/private_beta
 
