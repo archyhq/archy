@@ -7,7 +7,7 @@ Note: This is not an open source project (yet), this repo is for issue tracking 
 - Sign Up to Private beta with your github account: https://archy.ai/developer/auth/private_beta
 
 
-## How it works?
+## How does it work?
 
 Archy.ai is a platform for developers.
 
